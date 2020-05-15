@@ -1,0 +1,37 @@
+[
+  {
+    "asalSekolah": "dummy",
+    "nama": "Horikita Manabu",
+    "username": "manabu",
+    "timescore": "90",
+    "finishscore": "70"
+  },
+  {
+    "asalSekolah": "dummy",
+    "nama": "Minako Yuki",
+    "username": "minako",
+    "timescore": "700",
+    "finishscore": "700"
+  },
+  {
+    "asalSekolah": "dummy",
+    "nama": "Serah Farron",
+    "username": "serah",
+    "timescore": "650",
+    "finishscore": "750"
+  },
+  {
+    "asalSekolah": "dummy",
+    "nama": "Horikita Suzune",
+    "username": "suzune",
+    "timescore": "800",
+    "finishscore": "900"
+  },
+  {
+    "asalSekolah": "dummy",
+    "nama": "Kamado Tanjiro",
+    "username": "tanjiro",
+    "timescore": "80",
+    "finishscore": "100"
+  }
+]

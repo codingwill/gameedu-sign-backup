@@ -1,0 +1,22 @@
+{
+    "manabu" : {
+      "asalSekolah" : "dummy",
+      "nama" : "Horikita Manabu"
+    },
+    "minako" : {
+      "asalSekolah" : "dummy",
+      "nama" : "Minako Yuki"
+    },
+    "serah" : {
+      "asalSekolah" : "dummy",
+      "nama" : "Serah Farron"
+    },
+    "suzune" : {
+      "asalSekolah" : "dummy",
+      "nama" : "Horikita Suzune"
+    },
+    "tanjiro" : {
+      "asalSekolah" : "dummy",
+      "nama" : "Kamado Tanjiro"
+    }
+}
